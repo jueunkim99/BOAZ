@@ -1,2 +1,2 @@
 # BOAZ
-BOAZ 분석 adv
+분석 base, adv
