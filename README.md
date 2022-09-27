@@ -1,2 +1,2 @@
 # BOAZ
-분석adv
+BOAZ 분석 adv
