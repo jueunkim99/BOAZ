@@ -1,2 +1,3 @@
 # BOAZ
-분석 base, adv
+base, adv
+Customer clustering, Size recommender system
